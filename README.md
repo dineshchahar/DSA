@@ -1,3 +1,4 @@
+# 50 Days Plan
 ## Day 1 (2025-12-30) — Sliding Window baseline + 1 Prefix/Hash
 
 - **LC1343** — Count Subarrays of Size K with Average Greater than or Equal to Threshold | **Sliding Window** | **Easy** | Companies: Amazon
